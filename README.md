@@ -185,3 +185,5 @@ tidak masalah — kolom-kolom itu sekarang cuma tidak dipakai lagi, tidak
 mengganggu jalannya aplikasi. Tidak perlu di-rollback.
 
 Kalau kamu baru mulai dari nol, cukup jalankan `schema.sql` seperti biasa.
+#   z i n z s t o r e  
+ 
